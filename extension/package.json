@@ -12,6 +12,6 @@
     "package": "npm run test:all && node scripts/build-extension-zip.mjs"
   },
   "devDependencies": {
-    "@playwright/test": "1.55.0"
+    "@playwright/test": "1.63.0"
   }
 }
